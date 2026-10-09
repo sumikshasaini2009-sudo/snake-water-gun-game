@@ -20,9 +20,9 @@ try:
             d=int(input("enter player 1's choice;"))
             e=int(input("enter player 2's choice;"))
             if d==1 and e==2 or d==2 and e==3 or d==3 and e==1:
-                print('user wins!')
+                print('player 1 wins!')
             elif d==1 and e==3 or d==2 and e==1 or d==3 and e==2:
-                print('bot wins!')
+                print('player 2 wins!')
             elif d==1 and e==1 or d==2 and e==2 or d==3 and e==3:
                 print('draw!')
             else:
