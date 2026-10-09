@@ -1,6 +1,6 @@
 🐍 Snake Water Gun Game
 
-My first Python project! A simple command-line game where you play Snake, Water, and Gun against the computer andalso supports a two-player mode.
+My first Python project! A simple command-line game where you play Snake, Water, and Gun against the computer and also supports a two-player mode.
 
 🎮 How to Play
 - Run the Python program.
