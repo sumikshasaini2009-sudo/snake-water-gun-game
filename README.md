@@ -12,4 +12,4 @@ HOW TO RUN?
 1 install python 3.
 2 download or clone this respository.
 3 open a terminal in the project folder.
-4 Run:
+4 Run: "game.py"
